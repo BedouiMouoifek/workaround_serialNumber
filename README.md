@@ -1,2 +1,2 @@
 # workaround_serialNumber
-from OCS inventory to glpi serial number of computer has the '00000000' format 
+from OCS inventory to glpi: computers has the '00000000' on the serial number 
